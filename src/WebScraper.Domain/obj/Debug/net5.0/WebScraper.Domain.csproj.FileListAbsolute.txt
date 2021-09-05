@@ -1,0 +1,12 @@
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\bin\Debug\net5.0\WebScraper.Domain.deps.json
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\bin\Debug\net5.0\WebScraper.Domain.dll
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\bin\Debug\net5.0\ref\WebScraper.Domain.dll
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\bin\Debug\net5.0\WebScraper.Domain.pdb
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\obj\Debug\net5.0\WebScraper.Domain.csproj.AssemblyReference.cache
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\obj\Debug\net5.0\WebScraper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\obj\Debug\net5.0\WebScraper.Domain.AssemblyInfoInputs.cache
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\obj\Debug\net5.0\WebScraper.Domain.AssemblyInfo.cs
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\obj\Debug\net5.0\WebScraper.Domain.csproj.CoreCompileInputs.cache
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\obj\Debug\net5.0\WebScraper.Domain.dll
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\obj\Debug\net5.0\ref\WebScraper.Domain.dll
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Domain\obj\Debug\net5.0\WebScraper.Domain.pdb

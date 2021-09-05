@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V+ZjPv3wWw0BR4CtjcH3WBzJQrCowA7YWGZu4RZBBij8KQU+okfemkm49pKzyT+1MHV2W8p/2Bc9hk27r7l7tQ==",
+  "success": true,
+  "projectFilePath": "D:\\Mevlut\\TestMevlutGit\\WebScraper.Book\\src\\WebScraper.Configuration\\WebScraper.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkaraman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\bin\Debug\net5.0\WebScraper.Service.deps.json
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\bin\Debug\net5.0\WebScraper.Service.dll
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\bin\Debug\net5.0\ref\WebScraper.Service.dll
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\bin\Debug\net5.0\WebScraper.Service.pdb
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\bin\Debug\net5.0\WebScraper.Configuration.dll
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\bin\Debug\net5.0\WebScraper.Domain.dll
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\bin\Debug\net5.0\WebScraper.Configuration.pdb
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\bin\Debug\net5.0\WebScraper.Domain.pdb
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\obj\Debug\net5.0\WebScraper.Service.csproj.AssemblyReference.cache
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\obj\Debug\net5.0\WebScraper.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\obj\Debug\net5.0\WebScraper.Service.AssemblyInfoInputs.cache
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\obj\Debug\net5.0\WebScraper.Service.AssemblyInfo.cs
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\obj\Debug\net5.0\WebScraper.Service.csproj.CoreCompileInputs.cache
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\obj\Debug\net5.0\WebScraper.Service.csproj.CopyComplete
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\obj\Debug\net5.0\WebScraper.Service.dll
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\obj\Debug\net5.0\ref\WebScraper.Service.dll
+D:\Mevlut\TestMevlutGit\WebScraper.Book\src\WebScraper.Service\obj\Debug\net5.0\WebScraper.Service.pdb
